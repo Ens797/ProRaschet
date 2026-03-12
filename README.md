@@ -5,5 +5,6 @@
 - **Telegram - bot**: @ProRaschet_bot
 - **Ассистент предоставляет структурированные строгие ответы** и указания на нормы законодательства в ответе
 - **Примеры ответов бота**:
-  ![otvet_1](https://github.com/user-attachments/assets/7c5a4913-55f2-4530-bdc7-b908469e7ed7)
+  
+ - ![otvet_1](https://github.com/user-attachments/assets/7c5a4913-55f2-4530-bdc7-b908469e7ed7)
 
